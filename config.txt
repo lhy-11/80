@@ -1,0 +1,29 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx02dd28d31724872e",
+# 公众号appSecret
+"app_secret": "c034e76fc7107db3532f5190308bcd5d",
+# 模板消息id
+"template_id": "XDfPfbhdUv_sshSuD_p_tR_lq0Un7KcVZSoE8GyfU_4",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oc4iR6vNu1pzBs-bteFPcZVx8aS0"],
+
+# 信息配置
+# 和风天气apikey
+"weather_key": "4cd8b3a756d641109dc24154fe4d6e20",
+# 天行数据apikey
+"tian_api": "cddeeb91029111613b5a96f1a979d69c",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
+"region": "柘城县",
+# 生日1
+"birthday1": {"name": "你", "birthday": "2023-06-26"},
+# 生日2
+"birthday2": {"name": "过年", "birthday": "r2023-01-01"},
+# 相爱的日子，格式同上
+"love_date": "2022-07-13",
+# 金句中文，如果为空，默认会读取金山的每日金句
+"note_ch": "海上月是天上月，愿各位眼前人是心上人！",
+# 金句英文
+"note_en": "The moon on the sea is the moon in the sky, and the person in front of me is my sweetheart !"
+}
